@@ -1,0 +1,1 @@
+The mere existence of this breaks template loading in tests
